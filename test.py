@@ -1,3 +1,1 @@
-def liguofushiji ():
-    return "hahaha"
-    
+import numpy
