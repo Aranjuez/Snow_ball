@@ -1,0 +1,3 @@
+def liguofushiji ():
+    return "hahaha"
+    
