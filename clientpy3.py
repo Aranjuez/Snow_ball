@@ -26,3 +26,5 @@ def subscribe(user, password):
         while rline:
             print(rline.strip())
             rline = sfile.readline()
+
+run('psyduck', 'Psyduck777', 'STATUS')
