@@ -1,2 +1,3 @@
 # Snow_ball
-This is a testing repository
+Group projects:
+1. Bloomberg Hackathon BaseInvader Game (2017 March 3-4)
