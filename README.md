@@ -1,3 +1,3 @@
-# Snow_ball
+# Snowball
 Group projects:<br /><br />
 1. Bloomberg Hackathon BaseInvader Game (2017 March 3-4)
